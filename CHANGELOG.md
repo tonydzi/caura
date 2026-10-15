@@ -10,6 +10,18 @@ Only the most recent releases are listed below. Every release, including those
 no longer shown here, is published with its full notes at
 [github.com/caura-ai/caura/releases](https://github.com/caura-ai/caura/releases).
 
+## [3.34.2](https://github.com/caura-ai/caura/compare/backend-v3.34.1...backend-v3.34.2) (2026-10-15)
+
+
+### Bug Fixes
+
+* **auth:** read-only refusals name their cause and stop offering deletes ([#2084](https://github.com/caura-ai/caura/issues/2084)) ([7667d67](https://github.com/caura-ai/caura/commit/7667d6741c60cc071cee87d8921aa239e5be3897))
+
+
+### Documentation
+
+* **evidence:** say the LoCoMo harness repository is not public yet ([#2085](https://github.com/caura-ai/caura/issues/2085)) ([cd91be5](https://github.com/caura-ai/caura/commit/cd91be53e709163f37bd9ecb5f5165ab5da9742e))
+
 ## [3.34.1](https://github.com/caura-ai/caura/compare/backend-v3.34.0...backend-v3.34.1) (2026-10-15)
 
 
